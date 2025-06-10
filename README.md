@@ -56,7 +56,7 @@ To understand factors influencing accident frequency and severity across the UK,
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/YourUsername/YourRepo/blob/main/UK_Road_Accident_Dashboard.png)
+![Dashboard Screenshot](https://github.com/Sathwik-pabba/UK-road-accident-Dashboard/blob/main/UK%20Road%20Accident.Dashboard.jpg)
 
 ---
 
