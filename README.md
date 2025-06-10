@@ -84,9 +84,9 @@ To understand factors influencing accident frequency and severity across the UK,
 
 ## 📁 Files Included
 
-- `UK_Road_Accident_Dashboard.pbix` – Power BI report  
-- `UK_Road_Accident_Dashboard.png` – Dashboard snapshot  
-- `UK_Road_Accident_Dataset.xlsx` – Original dataset
+- `UK Road Accident Dashboard.pbix` – Power BI report  
+- `UK Road Accident Dashboard.png` – Dashboard snapshot  
+- `UK+Road+Accident_dataset.xlsx` – Original dataset
 
 ---
 
@@ -99,5 +99,5 @@ Check out more here: [GitHub Profile](https://github.com/Sathwik-pabba)
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/YourProfile)  
-- 📫 Email: your.email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/sathwikpabba)  
+- 📫 Email: sathwik.pabba18@gmail.com
