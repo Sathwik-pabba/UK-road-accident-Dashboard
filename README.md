@@ -92,7 +92,7 @@ To understand factors influencing accident frequency and severity across the UK,
 
 ## 🙋‍♂️ About Me
 
-I’m **[Your Name]**, a data analyst specializing in **Power BI, SQL & Python**, with a passion for turning data into impactful stories.  
+I’m **Pabba Sathwik**, a data analyst specializing in **Power BI, SQL & Python**, with a passion for turning data into impactful stories.  
 Check out more here: [GitHub Profile](https://github.com/Sathwik-pabba)
 
 ---
